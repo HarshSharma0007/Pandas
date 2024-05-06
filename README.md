@@ -1,1 +1,1 @@
-<b>Numpy and Machine Learning Applications.</b>
+<b>Pandas and Machine Learning Applications.</b>
