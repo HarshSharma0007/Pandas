@@ -1,0 +1,15 @@
+1.Reading files
+2.Knowing shape of dataset
+3.head() , Tail() for reading from beginning or end
+4.getting the info of the file
+5.Creating a new dataframe(df) from the existing one.
+6.iloc()
+7.concat()
+8.sort_values()
+9.rename()
+10.sort_index()
+11.reset_index()
+12.value_count()
+13.nununique()
+14.min(),max(),mean(),median(),std(),var(),sum(),count(),quantile()
+15.apply(funtion)
